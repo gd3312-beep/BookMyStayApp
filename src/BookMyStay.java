@@ -70,7 +70,7 @@ class RoomAllocationService {
     }
 }
 
-public class UseCase6RoomAllocation {
+public class BookMyStay {
 
     public static void main(String[] args) {
 
